@@ -16,7 +16,7 @@ function ResumeNew() {
 
 
   return (
-    <div class="resume-box">
+    <div className="resume-box">
       <Container fluid className="resume-section">
         
 
